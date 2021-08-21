@@ -1,10 +1,7 @@
+gitHub_Token.txt
+api-key.properties
+
 ###  IntelliJ IDEA  ###
 *.idea/
-
 ###  Maven  ###
 *target/
-
-
-###################################
-api-key.properties
-gitHub_Token.txt
