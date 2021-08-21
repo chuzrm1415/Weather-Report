@@ -10,6 +10,7 @@ Aplicación para obtener el reporte del tiempo mediante un proveedor ( https://o
 
 
 ###Opciones de compilación:
+
 ######NOTA: La ejecución del programa hace uso de Apache Maven ( https://maven.apache.org/ )
 
 Preparar el ejecutable mediante Maven. (desde la carpeta del proyecto):
