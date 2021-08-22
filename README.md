@@ -9,9 +9,9 @@ Weather-Report
 Aplicación para obtener el reporte del tiempo mediante un proveedor ( https://openweathermap.org/ )
 
 
-###Opciones de compilación:
+### Opciones de compilación:
 
-######NOTA: La ejecución del programa hace uso de Apache Maven ( https://maven.apache.org/ )
+###### NOTA: La ejecución del programa hace uso de Apache Maven ( https://maven.apache.org/ )
 
 Preparar el ejecutable mediante Maven. (desde la carpeta del proyecto):
 
