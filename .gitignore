@@ -1,8 +1,3 @@
-# IntelliJ IDEA
 *.idea/
-
-# Maven
 target/
-
-##################
 api-key.properties
