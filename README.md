@@ -32,3 +32,11 @@ Ejecutar el programa para consulta mediante el zipCode:
 ```bash
 mvn exec:java -Dexec.args="zipcode 30101,cr"
 ```
+
+## Evaluacion
+
+Nota 7.5
+
+- El tag de revision era "tarea-1" no "v1.0.0"
+- No venian los comandos de IMN
+- El comando de zip no tenia el nombre solicitado
